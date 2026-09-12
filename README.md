@@ -79,6 +79,13 @@ Stability.ai is an AI platform that helps businesses automate decision-making pr
 A wide range selection of readily supported model.
 Deploy your fine-tuned model for
 
+### AIWave
+AIWave is a hosted OpenAI-compatible API gateway focused on Chinese model routes, with one USD balance, dated pricing, and request-level usage records.
+
+[Home](https://aiwave.live/) |
+[Models](https://aiwave.live/models/) |
+[Pricing](https://aiwave.live/pricing)
+
 ### Deepinfra
 DeepInfra is a powerful machine learning platform that offers fast and scalable inference for top AI models.
 
