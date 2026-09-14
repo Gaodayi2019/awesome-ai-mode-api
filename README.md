@@ -1,3 +1,5 @@
+
+
 # Awesome AI Model API
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/XueyanZhang/awesome-ai-mode-api/graphs/commit-activity)
@@ -7,7 +9,7 @@ A list of awesome AI Model API providers, platforms, projects
 - [API Providers](#api-providers)
   - [Anthropic \ Claude 2](#anthropic--claude-2)
   - [Azure OpenAI](#azure-openai)
-  - [GooseAI](#gooseai)
+  - [GooseAI](#goose-ai)
   - [OpenAI](#openai)
   - [Stability.ai](#stabilityai)
 - [API Platform](#api-platform)
@@ -16,7 +18,9 @@ A list of awesome AI Model API providers, platforms, projects
   - [Hugging Face](#hugging-face)
   - [NLP Cloud](#nlp-cloud)
   - [Replicate](#replicate)
+  - [RunAPI](#runapi)
   - [Together.ai](#togetherai)
+  - [XiuRouter](#xiurouter)
 - [Open Source Projects](#open-source-projects)
   - [Llama 2 Chat](#llama-2-chat)
   - [Ollama.ai](#ollamaai)
@@ -76,6 +80,13 @@ Stability.ai is an AI platform that helps businesses automate decision-making pr
 A wide range selection of readily supported model.
 Deploy your fine-tuned model for
 
+### AIWave
+AIWave is a hosted OpenAI-compatible API gateway focused on Chinese model routes, with one USD balance, dated pricing, and request-level usage records.
+
+[Home](https://aiwave.live/) |
+[Models](https://aiwave.live/models/) |
+[Pricing](https://aiwave.live/pricing)
+
 ### Deepinfra
 DeepInfra is a powerful machine learning platform that offers fast and scalable inference for top AI models.
 
@@ -104,12 +115,26 @@ NLP Cloud offers high performance NLP API based on top-tier ML models.
 [Models](https://nlpcloud.io/models) |
 [Pricing](https://nlpcloud.io/pricing)
 
+### RunAPI
+RunAPI is an OpenAI-compatible API platform for model APIs, media generation, and usage tracking.
+
+[Home](https://runapi.ai/) |
+[Models](https://runapi.ai/models) |
+[Pricing](https://runapi.ai/pricing)
+
 ### Together
 Together AI provides a platform for collaborative AI development.
 
 [Home](https://together.ai/) |
 [Models](https://together.ai/models) |
 [Pricing](https://together.ai/pricing)
+
+### XiuRouter
+XiuRouter provides one API for leading models through OpenAI, Anthropic, and Gemini protocol routes, with scoped API keys and per-request usage and cost records.
+
+[Home](https://router.xiu.ai/) |
+[Models](https://docs.xiu.ai/router/models-pricing-usage/) |
+[Pricing](https://router.xiu.ai/pricing)
 
 ## Open Source Projects
 
@@ -155,6 +180,4 @@ We encourage all contributions to this repository via an
 [issue](https://github.com/XueyanZhang/awesome-ai-mode-api/issues)
 or a
 [pull request](https://github.com/XueyanZhang/awesome-ai-mode-api/pulls)
-
-
 
